@@ -1,4 +1,4 @@
-# Sudoku-solver 
+
 
 # Sudoku CSP Solver
 
@@ -33,3 +33,4 @@ board = [
     [9, 0, 0, 3, 0, 5, 0, 0, 1],
     ...
 ]
+
